@@ -1,0 +1,22 @@
+h1{
+	text-align: center;
+	 font-style:italic;
+	 font-variant:small-caps;
+	 font-weight: bold;
+	 font-size: 60px;
+	 margin: 0;
+	 color: #4d3dff;
+	 text-decoration: underline;
+}
+.boldit{
+	font-family:Georgia,serif;
+	color: red;
+	font-style: italic;
+	font-variant:small-caps;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.parag{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color: green;
+}
